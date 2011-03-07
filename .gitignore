@@ -1,0 +1,11 @@
+.bundle
+log/
+log/*.log
+tmp/**/*
+.DS_STORE
+.DS_Store
+doc/api
+doc/app
+db/*.sqlite3
+.rvmrc
+solr/data
