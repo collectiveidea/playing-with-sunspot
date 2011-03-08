@@ -83,5 +83,4 @@ PLATFORMS
 DEPENDENCIES
   rails (= 3.0.5)
   sqlite3
-  sunspot
   sunspot_rails
